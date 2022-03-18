@@ -10,6 +10,3 @@ ________________________________________________________________________________
 
 ~~“可是亲爱的你，我不能说我爱你。”~~
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="600" height="205" src="//music.163.com/#/song?id=327441&auto=1&height=66"></iframe>
-
-
