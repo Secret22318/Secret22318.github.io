@@ -1,6 +1,7 @@
-## 秘密基地
+# 秘密基地
 
-想来生活不过是痛苦美丽。
+_**想来生活不过是痛苦美丽。**_
+
 
 
 [张艾嘉](https://mp.weixin.qq.com/s/txdhRhl1CDYa5k8nyigJQA)
@@ -13,7 +14,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![![1647572276(1)](https://user-images.githubusercontent.com/56786058/158929032-bc5d61aa-fb18-4a8c-a81e-8dc39b462459.png)](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
