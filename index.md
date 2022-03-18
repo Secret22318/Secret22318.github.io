@@ -3,7 +3,7 @@
 想来生活不过是痛苦美丽。
 
 
-[https://mp.weixin.qq.com/s/txdhRhl1CDYa5k8nyigJQA](url)
+[张艾嘉](https://mp.weixin.qq.com/s/txdhRhl1CDYa5k8nyigJQA)
 
 - Bulleted
 - List
