@@ -6,7 +6,7 @@ ________________________________________________________________________________
 > 2022.03.23
 
 
-~~只是那些猛烈的情绪，在睡不着的时候折磨着我。
+~~只是那些猛烈的情绪，在睡不着的时候折磨着我。~~
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="100" src="//music.163.com/outchain/player?type=2&id=1889911997&auto=1&height=66"></iframe>
 
